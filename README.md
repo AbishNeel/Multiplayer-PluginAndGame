@@ -1,4 +1,4 @@
-# Multiplayer-Plugin-Game
+# Multiplayer Plugin And WIP Game
 A simple multiplayer game and plugin developed using Unreal Engine 4 and C++
 
 PLUGIN
