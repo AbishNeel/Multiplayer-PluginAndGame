@@ -2,13 +2,17 @@
 A simple multiplayer game and plugin developed using Unreal Engine 4 and C++
 
 PLUGIN
+
 A simple plugin which leverages Steam to connect players in the same region and allow them to host and join game sessions. Uses a simple GUI for Hosting and Joining games. This plugin can be used in any UE4/UE5 projects, in order to so, you must make a "Plugins" folder and place the 'Multiplayer Sessions' folder into it. Now open up UE4/UE5 and you should find the Multiplayer Sessions plugin as one of the many plugins Unreal Engine has to offer.
 
 ![Screenshot (243)](https://user-images.githubusercontent.com/75297748/204192995-dd1386a2-09a1-4bff-9955-b29d5386b9c7.png)
 
 
+
 GAME
+
 The game is a simple WIP third person multiplayer game. Players can joing sessions, pick up guns and shoot at each other. I am currently not working on this game and hope to resume development soon.
+
 
 IN-GAME-SCREENSHOTS
 
